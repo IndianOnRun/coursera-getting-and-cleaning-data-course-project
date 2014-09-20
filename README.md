@@ -1,6 +1,6 @@
 Coursera - Getting and Cleaning Data Course Project - ReadMe
 
-TThis file describes how to get the expected output from run_analysis.R.
+This file describes how to get the expected output from run_analysis.R.
 
 -Download the data set from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and unzip the content in a folder named "data".
 -Create a R script file run_analysis.R parallel to data folder and set this path as the current working directory.
